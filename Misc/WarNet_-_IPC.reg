@@ -1,4 +1,4 @@
 REGEDIT4
 
 [HKEY_CURRENT_USER\Software\Reality Pump\PanzerClawsII\BaseGame\Network\EarthNet]
-"AddressIP"="\"WarNet - IPC\"\"netserver.insideearth.info\"\"WarNet - IPC - VPN\"\"vpnnetserver.insideearth.info\""
+"AddressIP"="\"WarNet - IPC - VPN\"\"vpnnetserver.insideearth.info\""
